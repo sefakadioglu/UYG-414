@@ -5,7 +5,7 @@ Bu proje, geleneksel not alma süreçlerini yapay zeka ile birleştirerek kullan
 
 ---
 
-## 🛡️ Authentication Gateway (Sefa Cabir Kadıoğlu)
+## 🛡️ Authentication Gateway 
 Bu modül, sistemin güvenlik kalkanı ve giriş kapısıdır. Tüm sistem trafiği bu gateway üzerinden doğrulanarak ilgili mikroservislere yönlendirilir.
 
 ### 🚀 Kullanılan Teknolojiler
